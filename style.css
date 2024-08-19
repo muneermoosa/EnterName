@@ -43,7 +43,7 @@ body{
 .kitchen-header button{
     font-size: 18px;
     height: 42px;
-    padding: 0 20px;
+    padding: 0 45px;
     cursor: pointer;
     font-family: 'Nunito', sans-serif;
     background-color: black;
@@ -69,7 +69,7 @@ body{
     justify-content: space-between;
     background-color :#479e83;
     background-image: linear-gradient(315deg, #ffac81 0%, #ff928b 74%);
-    padding: 10px 15px;
+    padding: 5px 5px;
     margin: 4px 0;  
     font-size: 18px;
     font-weight: 700;
